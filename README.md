@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# print("Hi, I'm [Jeandre] - AI Automation Engineer") 🐍
 
 ### AI Automation Engineer & Full-Stack Developer
 
@@ -46,6 +46,6 @@ I specialize in building intelligent, data-driven automation systems and AI agen
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/yourprofile]([Your LinkedIn URL])
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **Portfolio:** [yourwebsite.com]([Your Website URL])
+<!--- **LinkedIn:** [linkedin.com/in/yourprofile]([Your LinkedIn URL])-->
+- **Email:** [jeandre.c127@gmail.com](jeandre.c127@gmail.com)
+ **Portfolio:** [Loading...](https://google.com)<!---[yourwebsite.com]([Your Website URL]) -->
