@@ -1,3 +1,9 @@
+Markdown
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3670A0&center=true&vCenter=true&width=800&lines=Building+the+bridge+between+AI+and+the+real+world+%E2%9A%A1;AI+Automation+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+  </a>
+</div>
 # name = "Jeandre"
 # print(f"Hi, I'm {name} - AI Automation Engineer") 🐍
 
