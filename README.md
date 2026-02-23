@@ -41,6 +41,7 @@ I specialize in building intelligent, data-driven automation systems and AI agen
 
 ### 🏆 Featured Projects
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PotatoCodez127&show_icons=true&theme=tokyonight)
 * **[Zappies Central API](https://github.com/PotatoCodez127/zappies-central-api_v2)**
   *A production-ready omnichannel AI API featuring GraphRAG (Neo4j + Supabase), Google Gemini, Voice Agent support, and automated Twilio SMS scheduling.*
 * **[WhatsApp GraphRAG Gateway](https://github.com/PotatoCodez127/whatsapp-graphrag-gateway)**
