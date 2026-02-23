@@ -1,4 +1,5 @@
-# print("Hi, I'm [Jeandre] - AI Automation Engineer") 🐍
+# name = "Jeandre"
+# print(f"Hi, I'm {name} - AI Automation Engineer") 🐍
 
 ### AI Automation Engineer & Full-Stack Developer
 
